@@ -1,7 +1,7 @@
 # React.js-small-project
 
 ![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://res.cloudinary.com/practicaldev/image/fetch/s--x8REEhB6--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/0grvqdho7rcyhrj1pspk.png))  useState Project:
- 🛠 like-Comment: 
+## 🛠 project Name: like-Comment 
 
 🧠Q. What problems did I encounter in doing this project? And how did I solve it?
 
